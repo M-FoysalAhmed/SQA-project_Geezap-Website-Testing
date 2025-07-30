@@ -24,19 +24,6 @@ The primary goal of this project was to test the core functionalities, identify 
 
 ---
 
-#### What’s Inside
-
-
-Geezap-Website-Testing/
-├── Test-Cases/
-│ └── Geezap_testing_Foysal Ahmed.xlsx
-│
-├── Bug-Reports/
-│ └── Geezap_Bug_Report_Foysal Ahmed_.xlsx
-│
-└── Checklists/
-└── [Optional: Add if you have a checklist document]
-
 
 ##### Highlights from Test Case Document:
 - Test cases categorized by module (e.g., login, register, dashboard)
@@ -75,8 +62,4 @@ This SQA project provides comprehensive coverage of the website’s basic featur
 
 ---
 
-## 📬 Contact
-
-This project is part of a hands-on learning experience in Software Quality Assurance.  
-Feel free to reach out for collaboration, feedback, or questions.
 
